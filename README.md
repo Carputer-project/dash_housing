@@ -1,9 +1,9 @@
-# dash_housing
+# Freestar Dash Housing
 
 A nice housing for the **Waveshare ESP32-S3-Touch-LCD-7** running
-[`esp32_ms_dash`](https://github.com/Carputer-project/esp32_ms_dash).
+[`freestar_dash`](https://github.com/Carputer-project/freestar_dash).
 
-![assembled](assembled_v37.png)
+![dash housing](dash_housing.png)
 
 A clean 3D printed dash enclosure that turns a bare 7" ESP32-S3 display into something you can
 actually mount in a car. Fits the Waveshare ESP32-S3-Touch-LCD-7, holds the screen, and gives the
@@ -40,4 +40,4 @@ Five parts, one of them printed twice.
 
 3–4 perimeters, 40% infill, no supports.
 
-![exhaust](exhaust_v37_iso.png)
+![iobox3 PCB mount](pcb_fit.png)
