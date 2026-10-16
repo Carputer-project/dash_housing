@@ -1,7 +1,13 @@
-# scratch renders
-*_v37_2.png
+# scratch renders — regenerate with the openscad commands in the README
+# Only dash_housing.png, pcb_fit.png and waveshare_drawing.png are kept.
+*.png
+!dash_housing.png
+!pcb_fit.png
+!waveshare_drawing.png
+
+# backup of the design source
 *.bak-*
 
-# reference CAD - 25MB solid, large and immutable.
-# Re-downloadable from Waveshare; keep the PDF + drawing instead.
+# reference CAD — 25MB vendor solid, large and immutable.
+# The PDF + waveshare_drawing.png carry the dimensions it was taken from.
 esp32-s3-touch-lcd-7.stp
