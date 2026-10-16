@@ -1,0 +1,7 @@
+# scratch renders
+*_v37_2.png
+*.bak-*
+
+# reference CAD - 25MB solid, large and immutable.
+# Re-downloadable from Waveshare; keep the PDF + drawing instead.
+esp32-s3-touch-lcd-7.stp
